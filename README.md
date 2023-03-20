@@ -16,7 +16,7 @@ The app is designed to make it easy for users to donate funds to the project. On
 
 
 
-## :hammer: Install&Run
+## :hammer: Install & Run
 * Clone this repo to your desktop and run `npm install` to install all the dependencies.
 
 * This project is using truffle to compile Solidity smart contracts to the local network.
